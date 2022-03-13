@@ -1,0 +1,38 @@
+body {
+  background: black;
+  font-size: 100px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.stopped {
+  color: dodgerblue
+}
+
+.running {
+  color: mediumseagreen
+}
+
+button {
+  border-width: 3px;
+  border-style: solid;
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+.startButton {
+  background: dodgerblue;
+  border-color: royalblue;
+}
+
+.stopButton {
+  background: mediumseagreen;
+  border-color: green;
+}
+
+.resetButton {
+  background: brown;
+  border-color: maroon;
+}
